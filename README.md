@@ -205,3 +205,5 @@ Both S1 and S1-mini incorporate online Reinforcement Learning from Human Feedbac
       url={https://arxiv.org/abs/2411.01156},
 }
 ```
+
+Repository: https://github.com/sitex/soft-fish-speech-s1
