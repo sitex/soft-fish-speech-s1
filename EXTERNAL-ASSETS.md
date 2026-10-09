@@ -11,7 +11,7 @@ processing caches remain in the full private backup and are rebuilt as needed.
 Restore missing originals after cloning:
 
 ```bash
-uv run /home/rocky/projects/tools-utils/bin/repo-history-cleanup.py restore . \\
+uv run /home/rocky/projects/tools-utils/bin/repo-history-cleanup.py restore . \
   --assets repo-assets.json --apply
 ```
 
